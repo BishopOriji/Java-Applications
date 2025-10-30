@@ -20,6 +20,15 @@ public class SelectionStatement{
 			System.out.printf("%d is greater than %d%n", num1,num2);
 		else
 			System.out.printf("%d is greater than %d%n", num2,num1);
+		
+		//REPETITION - ITERATION EFFECTING A REPEAT OF A BLOCK OF CODES
+		//FOR LOOP
+		//DO WHILE LOOP
+		//WHILE LOOP - USED AS LONG AS THE CONDITION IS TRUE, IT;S CALLED PRE-TEST LOOP BECAUSE THE CONDITION IS CHECKED BEFORE ENTERING TE LOOP BODY
+		
+		//JUMP 
+		//BREAK
+		//CONTINUE
 	}
 	
 	
