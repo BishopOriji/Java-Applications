@@ -19,22 +19,23 @@ public class IfElseIfStatement{
 		
 		if(mark >= 80){
 			System.out.printf("Full name: %s, Mark: %d, Your grade is A",fullName,mark);
-		
+		}
 		else if(mark >= 75){
 			System.out.printf("Full name: %s, Mark: %d, Your grade is B",fullName,mark);
-		
+		}
 		else if(mark >= 65){
 			System.out.printf("Full name: %s, Mark: %d, Your grade is C",fullName,mark);
-		
+		}
 		else if(mark >= 55){
 			System.out.printf("Full name: %s, Mark: %d, Your grade is D",fullName,mark);
-		
+		}
 		else if(mark >= 45){
 			System.out.printf("Full name: %s, Mark: %d, Your grade is E",fullName,mark);
+		}
 		else(
-			System.out.printf("Fullname: %s, Mark: %d, Your grade is F",fullName,mark);
+			System.out.printf("Full name: %s, Mark: %d, Your grade is F",fullName,mark);
 		)
 		
-
+		
 	}
 }
